@@ -106,3 +106,5 @@ class Work {
     return words.join(' ').replaceAll(RegExp(r'\s+'), ' ').trim();
   }
 }
+
+// ai-review-trigger
