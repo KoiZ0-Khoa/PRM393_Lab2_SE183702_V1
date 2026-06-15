@@ -74,3 +74,5 @@ class OpenAlexService {
     }
   }
 }
+
+// ai-review-trigger
